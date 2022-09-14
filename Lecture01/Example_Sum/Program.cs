@@ -1,7 +1,11 @@
-﻿//задаем значиния 2 переменных
+﻿//задаем значиния 2 переменных, с помощью генератора случайного числа
 
-int number_A = 34;
-int number_B = 34;
+int number_A = new Random().Next(1, 10); // диапазон случайного числа от 1 до 9 включительно
+Console.Write("Первое число равно - ");
+Console.Write(number_A);
+int number_B = new Random().Next(1, 10);
+Console.Write("Второе число равно - ");
+Console.Write(number_B);
 
 //ищем их сумму
 
