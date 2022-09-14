@@ -1,0 +1,15 @@
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\bin\Debug\net6.0\Example_Hello_World.exe
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\bin\Debug\net6.0\Example_Hello_World.deps.json
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\bin\Debug\net6.0\Example_Hello_World.runtimeconfig.json
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\bin\Debug\net6.0\Example_Hello_World.dll
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\bin\Debug\net6.0\Example_Hello_World.pdb
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.csproj.AssemblyReference.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.AssemblyInfoInputs.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.AssemblyInfo.cs
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.csproj.CoreCompileInputs.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.dll
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\refint\Example_Hello_World.dll
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.pdb
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\Example_Hello_World.genruntimeconfig.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture01\Example_Hello_World\obj\Debug\net6.0\ref\Example_Hello_World.dll
