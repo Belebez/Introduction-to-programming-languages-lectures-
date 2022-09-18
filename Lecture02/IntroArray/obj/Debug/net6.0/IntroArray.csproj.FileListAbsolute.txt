@@ -1,0 +1,15 @@
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\bin\Debug\net6.0\IntroArray.exe
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\bin\Debug\net6.0\IntroArray.deps.json
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\bin\Debug\net6.0\IntroArray.runtimeconfig.json
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\bin\Debug\net6.0\IntroArray.dll
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\bin\Debug\net6.0\IntroArray.pdb
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.csproj.AssemblyReference.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfoInputs.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.AssemblyInfo.cs
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.csproj.CoreCompileInputs.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.dll
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\refint\IntroArray.dll
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.pdb
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\IntroArray.genruntimeconfig.cache
+D:\Обучение GB\Знакомство с языками программирования (лекции)\Lecture02\IntroArray\obj\Debug\net6.0\ref\IntroArray.dll
